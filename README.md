@@ -1,6 +1,6 @@
 Welcome to my Github👋🏻
 I did 6 months intern as Full stack developer (python)
-After tbat i did intern as Content operator.
+After that i did intern as Content operator.
 i did 3 projects in Both frontend and backend.
 
 Reach me: 📫 kalkir954@gmail.com 
